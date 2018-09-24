@@ -1,2 +1,3 @@
 # hello_world
 My formal introduction into the github world...
+I'm getting up to speed on this quickly and completely :-)
